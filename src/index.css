@@ -8,3 +8,9 @@
   font-family: "Manrope", sans-serif;
   font-family: "Roboto", sans-serif;
 }
+::-webkit-scrollbar {
+  width: 0;
+}
+::-webkit-scrollbar-thumb {
+  background-color: transparent;
+}

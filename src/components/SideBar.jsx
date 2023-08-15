@@ -9,7 +9,7 @@ import { RiWhatsappFill } from "react-icons/ri";
 const SideBar = () => {
   return (
     <aside className="text-slate-900 fixed left-0 border w-[60px] h-screen flex flex-col justify-center gap-[120px] items-center">
-      <h3 className=" text-xl font-extrabold -rotate-90 uppercase tracking-widest">
+      <h3 className="text-xl font-extrabold -rotate-90 uppercase tracking-widest text-green-700">
         homepage
       </h3>
       <div className="flex flex-col gap-3">

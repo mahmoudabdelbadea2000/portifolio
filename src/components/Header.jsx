@@ -7,15 +7,19 @@ const Header = () => {
       name: "HOME",
     },
     {
-      id: 4,
+      id: 2,
       name: "SERVESIECS",
     },
     {
-      id: 2,
-      name: "SKILLS",
+      id: 3,
+      name: "LANGUAGE",
     },
     {
-      id: 3,
+      id: 4,
+      name: "TECHNOLOGIES",
+    },
+    {
+      id: 5,
       name: "PROJECTS",
     },
   ];

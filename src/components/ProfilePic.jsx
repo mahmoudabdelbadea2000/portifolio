@@ -6,7 +6,7 @@ const ProfilePic = () => {
       <ProgressBar />
       <img
         className="w-2/6 h-screen object-cover fixed right-0"
-        src="/public/mahmoud.jpg"
+        src="/mahmoud.jpg"
         alt="mahmoud abdelbadea"
       />
     </div>
